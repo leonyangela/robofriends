@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ddbed11c12c2a09c8638a3572354d0de",
+    "revision": "0a96cfce78a67dde850840b7b6795ffe",
     "url": "/leonyangela/search-card.git/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/leonyangela/search-card.git/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "bf0751794b04c8ce4ebc",
+    "revision": "edb49d81faaa9ea00594",
     "url": "/leonyangela/search-card.git/static/css/main.90ad3baf.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/leonyangela/search-card.git/static/js/2.8876ceb3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bf0751794b04c8ce4ebc",
-    "url": "/leonyangela/search-card.git/static/js/main.5f414687.chunk.js"
+    "revision": "edb49d81faaa9ea00594",
+    "url": "/leonyangela/search-card.git/static/js/main.f55282d2.chunk.js"
   },
   {
     "revision": "b19e6ce57b548fe60d0e",
