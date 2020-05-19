@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/leonyangela/search-card.git/static/css/main.90ad3baf.chunk.css",
-    "main.js": "/leonyangela/search-card.git/static/js/main.f55282d2.chunk.js",
-    "main.js.map": "/leonyangela/search-card.git/static/js/main.f55282d2.chunk.js.map",
-    "runtime-main.js": "/leonyangela/search-card.git/static/js/runtime-main.3e0cb514.js",
-    "runtime-main.js.map": "/leonyangela/search-card.git/static/js/runtime-main.3e0cb514.js.map",
-    "static/css/2.3c03f26f.chunk.css": "/leonyangela/search-card.git/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.8876ceb3.chunk.js": "/leonyangela/search-card.git/static/js/2.8876ceb3.chunk.js",
-    "static/js/2.8876ceb3.chunk.js.map": "/leonyangela/search-card.git/static/js/2.8876ceb3.chunk.js.map",
-    "index.html": "/leonyangela/search-card.git/index.html",
-    "precache-manifest.503e63c7c1e98d976b712998eadfdaf9.js": "/leonyangela/search-card.git/precache-manifest.503e63c7c1e98d976b712998eadfdaf9.js",
-    "service-worker.js": "/leonyangela/search-card.git/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "/leonyangela/search-card.git/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.90ad3baf.chunk.css.map": "/leonyangela/search-card.git/static/css/main.90ad3baf.chunk.css.map",
-    "static/js/2.8876ceb3.chunk.js.LICENSE.txt": "/leonyangela/search-card.git/static/js/2.8876ceb3.chunk.js.LICENSE.txt"
+    "main.css": "/leonyangela/search-card.io/static/css/main.90ad3baf.chunk.css",
+    "main.js": "/leonyangela/search-card.io/static/js/main.cb85eb2f.chunk.js",
+    "main.js.map": "/leonyangela/search-card.io/static/js/main.cb85eb2f.chunk.js.map",
+    "runtime-main.js": "/leonyangela/search-card.io/static/js/runtime-main.db2d7c6b.js",
+    "runtime-main.js.map": "/leonyangela/search-card.io/static/js/runtime-main.db2d7c6b.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/leonyangela/search-card.io/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.8876ceb3.chunk.js": "/leonyangela/search-card.io/static/js/2.8876ceb3.chunk.js",
+    "static/js/2.8876ceb3.chunk.js.map": "/leonyangela/search-card.io/static/js/2.8876ceb3.chunk.js.map",
+    "index.html": "/leonyangela/search-card.io/index.html",
+    "precache-manifest.4db3e69453610eae9c68888216aa09f3.js": "/leonyangela/search-card.io/precache-manifest.4db3e69453610eae9c68888216aa09f3.js",
+    "service-worker.js": "/leonyangela/search-card.io/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/leonyangela/search-card.io/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.90ad3baf.chunk.css.map": "/leonyangela/search-card.io/static/css/main.90ad3baf.chunk.css.map",
+    "static/js/2.8876ceb3.chunk.js.LICENSE.txt": "/leonyangela/search-card.io/static/js/2.8876ceb3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3e0cb514.js",
+    "static/js/runtime-main.db2d7c6b.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.8876ceb3.chunk.js",
     "static/css/main.90ad3baf.chunk.css",
-    "static/js/main.f55282d2.chunk.js"
+    "static/js/main.cb85eb2f.chunk.js"
   ]
 }
