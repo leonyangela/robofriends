@@ -23,7 +23,7 @@ class App extends Component {
                 "Content-Type": "text/plain"
             }
         })
-        
+
         .then(response => response.json())
         .then(users => this.setState({ robots: users }));
 }
